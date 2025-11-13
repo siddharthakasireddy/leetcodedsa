@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0282-expression-add-operators](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0282-expression-add-operators) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0282-expression-add-operators) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Design
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
