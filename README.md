@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0388-longest-absolute-file-path](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0388-longest-absolute-file-path) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Greedy
@@ -65,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0388-longest-absolute-file-path](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0388-longest-absolute-file-path) |
 ## Binary Tree
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Randomized
 |  |
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -104,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0301-remove-invalid-parentheses) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
