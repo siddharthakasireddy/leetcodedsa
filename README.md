@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0436-find-right-interval) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
