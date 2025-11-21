@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0275-h-index-ii) |
+| [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0312-burst-balloons) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0436-find-right-interval](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0436-find-right-interval) |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0175-combine-two-tables) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
