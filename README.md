@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0001-two-sum) |
 | [0275-h-index-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0312-burst-balloons) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0387-first-unique-character-in-a-string) |
