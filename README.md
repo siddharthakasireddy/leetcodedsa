@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0275-h-index-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0312-burst-balloons) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0275-h-index-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0275-h-index-ii) |
 | [0436-find-right-interval](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0436-find-right-interval) |
 ## Two Pointers
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
