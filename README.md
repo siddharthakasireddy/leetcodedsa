@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0016-3sum-closest) |
 | [0275-h-index-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0312-burst-balloons) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0016-3sum-closest) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Stack
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0016-3sum-closest) |
 | [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0436-find-right-interval) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
