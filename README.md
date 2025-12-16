@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0388-longest-absolute-file-path) |
 ## Binary Tree
 |  |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
