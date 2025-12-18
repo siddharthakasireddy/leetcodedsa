@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0388-longest-absolute-file-path) |
+| [0547-number-of-provinces](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0547-number-of-provinces) |
 ## Iterator
 |  |
 | ------- |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
