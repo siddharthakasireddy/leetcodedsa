@@ -22,18 +22,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0275-h-index-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0275-h-index-ii) |
 | [0436-find-right-interval](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0436-find-right-interval) |
+| [0611-valid-triangle-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0016-3sum-closest) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0611-valid-triangle-number) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0436-find-right-interval) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0611-valid-triangle-number) |
 ## Monotonic Stack
 |  |
 | ------- |
