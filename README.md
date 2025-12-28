@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0275-h-index-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0278-first-bad-version) |
 | [0436-find-right-interval](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0547-number-of-provinces) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
