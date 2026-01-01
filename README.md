@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0313-super-ugly-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0322-coin-change) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0391-perfect-rectangle) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0306-additive-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0385-mini-parser](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0388-longest-absolute-file-path) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 ## Database
 |  |
