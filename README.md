@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0404-sum-of-left-leaves) |
+| [0437-path-sum-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0419-battleships-in-a-board) |
+| [0437-path-sum-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0404-sum-of-left-leaves) |
+| [0437-path-sum-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0437-path-sum-iii) |
 ## Math
 |  |
 | ------- |
