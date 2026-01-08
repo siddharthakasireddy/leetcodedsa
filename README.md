@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0419-battleships-in-a-board) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0547-number-of-provinces) |
 ## Binary Tree
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0092-reverse-linked-list-ii) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0391-perfect-rectangle) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
