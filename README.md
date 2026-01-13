@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0570-managers-with-at-least-5-direct-reports) |
 ## Matrix
 |  |
 | ------- |
