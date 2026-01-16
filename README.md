@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0037-sudoku-solver) |
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
+| [0228-summary-ranges](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0228-summary-ranges) |
 | [0275-h-index-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0312-burst-balloons) |
