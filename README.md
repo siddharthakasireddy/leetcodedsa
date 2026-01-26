@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0449-serialize-and-deserialize-bst](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0449-serialize-and-deserialize-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0449-serialize-and-deserialize-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0449-serialize-and-deserialize-bst) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0449-serialize-and-deserialize-bst](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0449-serialize-and-deserialize-bst) |
 ## Randomized
 |  |
 | ------- |
@@ -197,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0547-number-of-provinces) |
 ## Iterator
 |  |
@@ -310,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
