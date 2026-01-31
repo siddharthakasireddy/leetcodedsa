@@ -1,22 +1,10 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        seen = {}  # maps value -> index
-
+        seen = {}
         for i, num in enumerate(nums):
-            complement = target - num
-
-            if complement in seen:
-                return [seen[complement], i]
-
+            need = target - num
+            if need in seen:
+                return [seen[need], i]
             seen[num] = i
 
-
-
-
-        
         
